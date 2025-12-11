@@ -10,7 +10,7 @@ The dataset can be downloaded using `./download_and_process.sh`, or you can dire
 ## 2. QG (Question Generation)
 The QG model is used for data augmentation. It can be invoked by running `./run_qg.sh`.
 
-## 3. QA (Question Answering)
+## 3. QA (Question Answering model)
 This module contains code related to the QA model, including performance evaluation and training. Use `run_qa_baseline.sh` to train downstream models and evaluate the final model's capabilities.
 
 ## 4. ARF (Adaptive Reinforcement Filtering)
