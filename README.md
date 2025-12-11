@@ -15,7 +15,3 @@ This module contains code related to the QA model, including performance evaluat
 
 ## 4. ARF (Adaptive Reinforcement Filtering)
 Train and use the filtering model. Experiments (RQ1-RQ4) can be conducted through `ARF/run_arf.py`.
-
-## 🚀 Quick Start
-
-### Data Preparation
